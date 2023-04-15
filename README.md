@@ -11,7 +11,7 @@
 
 
 
-- 🌱 I’m currently learning **WEB DEV**
+- 🌱 I’m currently learning **FullStack Web Development.**
 
 - 👯 I’m looking to collaborate on **Open Source Projects.**
 
